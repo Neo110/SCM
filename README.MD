@@ -1,7 +1,10 @@
 # SCM产品介绍
 
-官网地址
+## 官网地址
 https://scm.chusen.tech
+
+## 下载地址
+链接: https://pan.baidu.com/s/1sRxfytoU2fAHX11NKJ1hqA?pwd=7ji7
 
 ## 功能
 自定义服务菜单管理功能  
