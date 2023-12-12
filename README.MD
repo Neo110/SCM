@@ -3,6 +3,9 @@
 ## 官网地址
 https://scm.chusen.tech
 
+## 文档
+https://scm.chusen.tech/doc/
+
 ## 下载地址
 链接: https://pan.baidu.com/s/1sRxfytoU2fAHX11NKJ1hqA?pwd=7ji7
 
@@ -15,7 +18,8 @@ https://scm.chusen.tech
 可以根据业务需求灵活修改服务配置，以及日志监控功能  
 自定义添加服务软件包  
 多平台支持  
-
+支持自定义服务
+支持自定义菜单
 
 ## 解决了哪些问题
 微服务架构项目客户无法自己管理  
