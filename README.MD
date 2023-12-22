@@ -6,7 +6,7 @@ https://scm.chusen.tech
 ## 文档
 https://scm.chusen.tech/doc/
 
-## 下载地址
+## 下载版本 
 链接: https://pan.baidu.com/s/1sRxfytoU2fAHX11NKJ1hqA?pwd=7ji7
 
 ## 功能
@@ -54,8 +54,20 @@ https://scm.chusen.tech/doc/
 微信扫码进群
 
 ![1](images/Wechat.jpg "微信用户群")
+## Linxu版本
+### scm-dev deb服务列表
+scm-dev版本下载地址 https://scm.chusen.tech/<br>
+支持自定义菜单，自定义脚本<br>
+Nginx <br>
 
-## scm-all 服务列表
+## Windows版本  
+### scm-dev 服务列表
+scm-dev版本下载地址 https://scm.chusen.tech/<br>
+支持自定义菜单，自定义脚本<br>
+Nginx <br>
+
+
+### scm-all 服务列表
 scm-all版本下载地址 https://scm.chusen.tech/<br>
 包含全部服务与工具包，方便使用，一键安装<br>
 Nginx <br>
@@ -69,8 +81,11 @@ openssh <br>
 FlashFXP <br>
 FileZillaServer <br>
 屏幕水印<br>
+服务守护<br>
+邮件推送<br>
+钉钉推送<br>
 
-## scm-jdk 服务列表
+### scm-jdk 服务列表
 scm-jdk版本下载地址 https://scm.chusen.tech/<br>
 JDK安装下载，scm-jdk 一键安装部署切换主要jdk版本<br>
 JDK8<br>
@@ -78,8 +93,8 @@ JDK11<br>
 JDK17<br>
 JDK21<br>
 
-## scm-springboot 服务列表
-scm-springboot版本下载地址 https://scm.chusen.tech/<br>
+### scm-springboot 精简版本服务列表
+scm-springboot精简版本版本下载地址 https://scm.chusen.tech/<br>
 一键安装部署java项目<br>
 Nginx<br>
 MySQL 5.7<br>
@@ -87,8 +102,21 @@ Redis<br>
 JDK8<br>
 SpringBoot<br>
 
+### scm-springboot 服务列表
+scm-springboot版本下载地址 https://scm.chusen.tech/<br>
+一键安装部署java项目<br>
+Nginx<br>
+MySQL 5.7<br>
+Redis<br>
+JDK8<br>
+SpringBoot<br>
+服务守护<br>
+屏幕水印<br>
+邮件推送<br>
+钉钉推送<br>
 
-## scm-tomcat 服务列表
+
+### scm-tomcat 服务列表
 scm-tomcat版本下载地址 https://scm.chusen.tech/<br>
 scm-tomcat 一键安装部署java项目<br>
 Nginx<br>
@@ -96,6 +124,10 @@ MySQL<br>
 Redis<br>
 JDK<br>
 tomcat<br>
+服务守护<br>
+屏幕水印<br>
+邮件推送<br>
+钉钉推送<br>
 
 ## SCM 截图
 
