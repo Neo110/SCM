@@ -131,12 +131,12 @@ tomcat<br>
 
 ## SCM 截图
 
-<img src="images/b1.jpg" width="100%" height="auto">
-<img src="images/b2.jpg" width="100%" height="auto">
-<img src="images/b3.jpg" width="100%" height="auto">
-<img src="images/b4.jpg" width="100%" height="auto">
-<img src="images/l1.jpg" width="100%" height="auto">
-<img src="images/l2.jpg" width="100%" height="auto">
+<img src="images/b1.jpg" width="40%" height="auto">
+<img src="images/b2.jpg" width="40%" height="auto">
+<img src="images/b3.jpg" width="40%" height="auto">
+<img src="images/b4.jpg" width="40%" height="auto">
+<img src="images/l1.jpg" width="40%" height="auto">
+<img src="images/l2.jpg" width="40%" height="auto">
  
 ## 云服务优惠
 <a class="nav-link nav-link" target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=41tyonmu" style="color: rgb(255 106 0);">
