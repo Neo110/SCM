@@ -138,6 +138,10 @@ tomcat<br>
 <img src="images/l1.jpg" width="40%" height="auto">
 <img src="images/l2.jpg" width="40%" height="auto">
  
+## 云服务优惠
+<a class="nav-link nav-link" target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=41tyonmu" style="color: rgb(255 106 0);">
+    <img alt="Image placeholder" src="https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png">优惠
+</a>
 
 ## SCM 官网
 https://scm.chusen.tech/
