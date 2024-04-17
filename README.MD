@@ -3,6 +3,58 @@
 ## 官网地址
 https://scm.chusen.tech
 
+## 云服务优惠
+<a class="nav-link nav-link" target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=41tyonmu" style="color: rgb(255 106 0);">
+    <img alt="Image placeholder" src="https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png">
+</a>
+
+## SCM用户群 
+微信扫码进群
+
+![1](images/Wechat.jpg "微信用户群")
+
+## 有问题提交到
+https://gitee.com/chusenth/scm/issues  
+
+## SCM V2.XX版本
+
+## 功能介绍
+1 免费商业版本。相关版权保留。<br>
+2 支持云端下载避免打包太大。<br>
+3 支持自定义服务，提供灵活配置。<br> 
+4 支持主题切换，提供多种主题。<br>
+5 支持导入导出服务，提供数据迁移。<br>
+6 支持服务守护，提供后台运行。<br>
+7 支持一键处理。提供快捷操作。<br>
+8 支持内置编辑器，系统自带编辑器。<br>
+9 支持多系统支持，提供多平台支持。 <br>
+
+其他服务功能请自定义配置。
+
+## SCM V2 截图
+
+<img src="images/v2/1.png" width="40%" height="auto">
+<img src="images/v2/3.png" width="40%" height="auto">
+
+<img src="images/v2/4.png" width="40%" height="auto">
+<img src="images/v2/2.png" width="40%" height="auto">
+
+
+<img src="images/v2/7.png" width="40%" height="auto">
+<img src="images/v2/8.png" width="40%" height="auto">
+
+<img src="images/v2/5.png" width="40%" height="auto">
+
+<img src="images/v2/9.png" width="40%" height="auto">
+
+<img src="images/v2/10.png" width="40%" height="auto">
+
+<img src="images/v2/11.png" width="40%" height="auto">
+
+<img src="images/v2/6.png" width="40%" height="auto">
+
+### V1.XX版本
+
 ## 文档
 https://scm.chusen.tech/doc/
 
@@ -50,10 +102,7 @@ https://scm.chusen.tech/doc/
 绿色解压版本，操作便捷，为目前微服务、微架构部署提供快速管理各服务的工具  
 具有非常强的可扩展性  
 
-## SCM用户群 
-微信扫码进群
 
-![1](images/Wechat.jpg "微信用户群")
 ## Linxu版本
 ### scm-dev deb服务列表
 scm-dev版本下载地址 https://scm.chusen.tech/<br>
@@ -138,16 +187,11 @@ tomcat<br>
 <img src="images/l1.jpg" width="40%" height="auto">
 <img src="images/l2.jpg" width="40%" height="auto">
  
-## 云服务优惠
-<a class="nav-link nav-link" target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=41tyonmu" style="color: rgb(255 106 0);">
-    <img alt="Image placeholder" src="https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png">
-</a>
 
 ## SCM 官网
 https://scm.chusen.tech/
 
-## 有问题提交到
-https://gitee.com/chusenth/scm/issues  
+
 
 ## 版权声明
 
