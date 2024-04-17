@@ -31,27 +31,27 @@ https://gitee.com/chusenth/scm/issues
 
 其他服务功能请自定义配置。
 
-## SCM V2 截图
+### SCM V2 截图
 
-<img src="images/v2/1.png" width="40%" height="auto">
-<img src="images/v2/3.png" width="40%" height="auto">
+<img src="images/v2/1.png" height="auto">
+<img src="images/v2/3.png" height="auto">
 
-<img src="images/v2/4.png" width="40%" height="auto">
-<img src="images/v2/2.png" width="40%" height="auto">
+<img src="images/v2/4.png" height="auto">
+<img src="images/v2/2.png" height="auto">
 
 
-<img src="images/v2/7.png" width="40%" height="auto">
-<img src="images/v2/8.png" width="40%" height="auto">
+<img src="images/v2/7.png" height="auto">
+<img src="images/v2/8.png" height="auto">
 
-<img src="images/v2/5.png" width="40%" height="auto">
+<img src="images/v2/5.png" height="auto">
 
-<img src="images/v2/9.png" width="40%" height="auto">
+<img src="images/v2/9.png" height="auto">
 
-<img src="images/v2/10.png" width="40%" height="auto">
+<img src="images/v2/10.png" height="auto">
 
-<img src="images/v2/11.png" width="40%" height="auto">
+<img src="images/v2/11.png" height="auto">
 
-<img src="images/v2/6.png" width="40%" height="auto">
+<img src="images/v2/6.png" height="auto">
 
 ### V1.XX版本
 
