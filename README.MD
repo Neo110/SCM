@@ -3,6 +3,11 @@
 ## 官网地址
 https://scm.chusen.tech
 
+支持windows macos linux 
+windows版本  https://pan.baidu.com/s/1watzxNlaq75l76Nzin6vhg?pwd=p2pb 
+macos版本 https://pan.baidu.com/s/1LS6ulktq0ZsIN1r7gtIVow?pwd=cspg 
+linux版本. https://pan.baidu.com/s/1RM5z7cp_awIlHR0udS4Z2A?pwd=nrxn 
+
 ## 云服务优惠
 <a class="nav-link nav-link" target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=41tyonmu" style="color: rgb(255 106 0);">
     <img alt="Image placeholder" src="https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png">
@@ -48,8 +53,6 @@ https://gitee.com/chusenth/scm/issues
 <img src="images/v2/9.png" height="auto">
 
 <img src="images/v2/10.png" height="auto">
-
-<img src="images/v2/11.png" height="auto">
 
 <img src="images/v2/6.png" height="auto">
 
