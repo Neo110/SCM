@@ -61,7 +61,7 @@ https://gitee.com/chusenth/scm/issues
 ## 文档
 https://scm.chusen.tech/doc/
 
-## 下载版本 
+## 下载v1.xx版本 
 链接: https://pan.baidu.com/s/1RKxpnaZcQ1ferpgDEm9x_g?pwd=4ox1 
 
 ## 功能
