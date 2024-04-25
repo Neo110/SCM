@@ -3,10 +3,10 @@
 ## 官网地址
 https://scm.chusen.tech
 
-支持windows macos linux 
-windows版本  https://pan.baidu.com/s/1watzxNlaq75l76Nzin6vhg?pwd=p2pb 
-macos版本 https://pan.baidu.com/s/1LS6ulktq0ZsIN1r7gtIVow?pwd=cspg 
-linux版本. https://pan.baidu.com/s/1RM5z7cp_awIlHR0udS4Z2A?pwd=nrxn 
+支持windows macos linux   <br>
+windows版本  https://pan.baidu.com/s/1watzxNlaq75l76Nzin6vhg?pwd=p2pb <br>
+macos版本 https://pan.baidu.com/s/1LS6ulktq0ZsIN1r7gtIVow?pwd=cspg <br>
+linux版本. https://pan.baidu.com/s/1RM5z7cp_awIlHR0udS4Z2A?pwd=nrxn <br>
 
 ## 云服务优惠
 <a class="nav-link nav-link" target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=41tyonmu" style="color: rgb(255 106 0);">
