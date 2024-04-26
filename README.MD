@@ -8,7 +8,7 @@ https://scm.chusen.tech
 github 仓库 <br>
 https://github.com/Neo110/SCM/releases <br>
 
-百度网盘
+百度网盘 <br>
 windows版本  https://pan.baidu.com/s/1watzxNlaq75l76Nzin6vhg?pwd=p2pb <br>
 macos版本 https://pan.baidu.com/s/1LS6ulktq0ZsIN1r7gtIVow?pwd=cspg <br>
 linux版本. https://pan.baidu.com/s/1RM5z7cp_awIlHR0udS4Z2A?pwd=nrxn <br>
